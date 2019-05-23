@@ -1,4 +1,5 @@
 Creator: Lang Faith
+
 Last Updated: 05/23/2019
 
 This is an instant-runoff software tailored towards the election process of the Cornell Branch of the Telluride House (CBTA).
