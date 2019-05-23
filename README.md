@@ -12,10 +12,10 @@ HOW TO USE
 3) Go to the responses of the form and click "View responses in Sheets."
 4) Once the Google Sheets containing responses are created, open the document and go to "Tools."
 5) Open "Script Editor."
-6) Copy and paste the code from the code.java file in this repository.
+6) Copy and paste the code from the code.java file in this repository. <br />
     *Alternatively, access the code at https://github.com/lm656/cbtaelections/blob/master/code.java
 7) Save the code and go back to the Sheets document. Under "Instant Runoff," click "Set Up" to find illegitimate responses.
-    *The illegitimate responses will have their timestamps highlighted in red.
+    *The illegitimate responses will have their timestamps highlighted in red.<br />
     *If "Instant Runoff" is not an option, go back to the Script Editor and run the function setup_instant_runoff() manually.
 8) Under "Instant Runoff," click "Run" to see the elction results.
     *If there is a tie, request a second round of voting or eliminate candidates with higher standard deviations.
