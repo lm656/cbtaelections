@@ -7,7 +7,7 @@ This is an instant-runoff software tailored towards the election process of the 
 The software uses source code by Chris Cartland:
 https://github.com/cartland/instant-runoff
 
-The main algorithm used for vote processing is Instant-Runoff voting (IRV) aka Ranked choice voting (RCV) with NO specific tie-breaker method set. The admin can decide what method(s) of tie-breaker to us at their own discretion. See more information at:
+The main algorithm used for vote processing is Instant-Runoff voting (IRV) aka Ranked choice voting (RCV) with NO specific tie-breaker method set. The admin can decide what method(s) of tie-breaker to use at their own discretion. See more information at:
 https://en.wikipedia.org/wiki/Instant-runoff_voting
 
 HOW TO USE
