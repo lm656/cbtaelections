@@ -41,6 +41,7 @@ function setup_instant_runoff() {
   check_error(); // check for illegitimate response
 }
 
+//If a response picks the same candidate for two or more different choices, their time stamp will be flagged red. 
 function check_error() {
   var active_spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   var row1_range = active_spreadsheet.getSheetByName(VOTE_SHEET_NAME).getRange("A1:1");
