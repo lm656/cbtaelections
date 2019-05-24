@@ -1,18 +1,12 @@
 /*
-Instant-runoff voting with Google Form and Google Apps Script
-Author: Chris Cartland
-Date created: 2012-04-29
-Last code update: 2012-10-16
-Source Code:
-https://github.com/cartland/instant-runoff
-This project may contain bugs. Use at your own risk.
-
-Modified by Lang Faith 
-Date Modified: 05/23/2019
-*Now includes check_error() fuction to highlight invalid responses.
-*Invalid means that at least one candidate is given two or more different ranks.
-*This code no longer uses Keys.
+Project created by Lang Faith 
+Last Modified: 05/23/2019
+*This software no longer uses Keys as Google Forms can do that already.
 lol also trying to fix the tie message 
+
+Source Code: 
+https://github.com/cartland/instant-runoff
+
 */
 
 /* Settings */ 
