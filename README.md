@@ -23,6 +23,7 @@ HOW TO USE
     *The illegitimate responses will have their timestamps highlighted in red. <br />
     *If "Instant Runoff" is not an option, go back to the Script Editor and run the function setup_instant_runoff() manually.
 8) Under "Instant Runoff," click "Run" to see the elction results. <br />
-    *If there is a tie, the admin will decide how to do the tie-breaker at their own discretion. Sample tie-breakers include requesting a second round of voting or eliminating candidates with higher standard deviations.
+    *If there is a tie, the admin will decide how to do the tie-breaker at their own discretion. Sample tie-breakers include requesting a second round of voting or eliminating candidates with higher standard deviations. <br />
+    *If "Instant Runoff" is not an option, go back to the Script Editor and run the function run_instant_runoff() manually.
 9) Illegitimate responses can be tossed out or be edited (if the "Edit after submit" option is selected for the Google Form used).
 10) If a voter decides to skip a choice and fill out all choices after the skipped choice (e.g. filling out top choice, then 3rd and 4th choice), then all choices after the skipped choice will be IGNORED. 
