@@ -6,7 +6,6 @@ lol also trying to fix the tie message
 
 Source Code: 
 https://github.com/cartland/instant-runoff
-
 */
 
 /* Settings */ 
