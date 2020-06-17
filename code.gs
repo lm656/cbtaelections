@@ -4,7 +4,7 @@ Last Modified: 05/23/2019
 *This software no longer uses Keys as Google Forms can do that already.
 lol also trying to fix the tie message 
 
-Source Code: 
+This software uses code written by Chris Cartland: 
 https://github.com/cartland/instant-runoff
 */
 
