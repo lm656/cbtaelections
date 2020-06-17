@@ -4,7 +4,7 @@ Last Updated: 05/23/2019
 
 This is an instant-runoff software tailored towards the election process of the Cornell Branch of the Telluride House (CBTA).
 
-The software uses source code by Chris Cartland:
+Parts of this software use code written by Chris Cartland:
 https://github.com/cartland/instant-runoff
 
 The main algorithm used for vote processing is Instant-Runoff voting (IRV) aka Ranked choice voting (RCV) with NO specific tie-breaker method set. The admin can decide what method(s) of tie-breaker to use at their own discretion. See more information at:
